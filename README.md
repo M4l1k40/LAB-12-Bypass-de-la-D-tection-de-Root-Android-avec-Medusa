@@ -176,6 +176,9 @@ frida -U -f owasp.mstg.uncrackable1 -l bypass_root.js
     ├── root_detected.png   # Avant le bypass
     └── bypass_success.png  # Après le bypass
 ```
+<img width="1588" height="943" alt="image" src="https://github.com/user-attachments/assets/8856c213-cf7a-4458-a3ea-95e9ab68733b" />
+
+<img width="776" height="338" alt="image" src="https://github.com/user-attachments/assets/7dba5add-f6a6-4e9d-be92-1654998b69a7" />
 
 ---
 
